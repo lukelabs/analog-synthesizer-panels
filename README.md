@@ -16,7 +16,10 @@ This repo contains all the source files from my custom built, [Music From Outer 
   - VCA: Voltage Controlled Amplifier
   - LFO: Low Frequency Oscillator
   - MULTI: A 4x4x4x4/8x8 passive multiplier
-  - LEVEL: A three channel, passive level attenuator with single channel passthrough.
+  - LEVEL: A three channel, passive level attenuator with single channel passthrough
+  - POWER: A simple power panel for dual supply rails + power switch
+  - DMOD: Delayed Modulation
+  - S&H: Sample and Hold
 
 ## How to use these files
 
@@ -32,7 +35,8 @@ This repo contains all the source files from my custom built, [Music From Outer 
 
 ## More information
 
-[My blog](https://lukelabs.com) contains more details on [how you can create your own synthesizer front panels with Sketch](https://lukelabs.com/2019/03/23/how-to-design-a-synthesizer-front-panel-using-sketch/).
+- [My blog](https://lukelabs.com) contains more details on [how you can create your own synthesizer front panels with Sketch](https://lukelabs.com/2019/03/23/how-to-design-a-synthesizer-front-panel-using-sketch/).
+- You can see my current build progress over on [the LukeLabs.com Instagram page](https://www.instagram.com/lukelabsdotcom/).
 
 ## Questions
 
