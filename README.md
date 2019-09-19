@@ -17,7 +17,7 @@ This repo contains all the source files from my custom built, [Music From Outer 
   - LFO: Low Frequency Oscillator
   - MULTI: A 4x4x4x4/8x8 passive multiplier
   - LEVEL: A three channel, passive level attenuator with single channel passthrough
-  - POWER: A simple power panel for dual supply rails + power switch
+  - POWER: A simple power panel for dual supply rails with power switch
   - DMOD: Delayed Modulation
   - S&H: Sample and Hold
 
