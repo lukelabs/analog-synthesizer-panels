@@ -14,23 +14,24 @@ The [Carbide Create](https://carbide3d.com/carbidecreate/) files and G-code are 
 
 | Panel name | Description | Carbide Create | G-code |
 | --- | --- | --- | --- |
-| VCO | Voltage Controller Oscillator module | [2U - VCO.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/2U&#32;-&#32;VCO.c2d) | [2U - VCO.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/2U&#32;-&#32;VCO.nc) |
-| VCF12 | 12dB Voltage Controlled Filter module | [2U - VCF12.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/2U&#32;-&#32;VCF12.c2d) | [2U - VCF12.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/2U&#32;-&#32;VCF12.nc) |
-| VCF24 | 24dB Voltage Controlled Filter module | [2U - VCF24.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/2U&#32;-&#32;VCF24.c2d) | [2U - VCF24.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/2U&#32;-&#32;VCF24.nc) |
-| ADSR | Attack/Delay/Sustain/Release envelope generator module | [1U - ADSR.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;ADSR.c2d) | [1U - ADSR.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;ADSR.nc) |
-| VCA | Voltage Controlled Amplifier module | [1U - VCA.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;VCA.c2d) | [1U - VCA.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;VCA.nc) |
-| LFO | Low Frequency Oscillator module | [1U - LFO.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;LFO.c2d) | [1U - LFO.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;LFO.nc) |
-| MULTI | 4x4x4x4/8x8 passive multiplier module | [1U - MULTI.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;MULTI.c2d) | [1U - MULTI.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;MULTI.nc) |
-| LEVEL | Three channel passive level attenuator module | [1U - LEVEL.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;LEVEL.c2d) | [1U - LEVEL.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;LEVEL.nc) |
-| POWER | Simple power panel for dual supply rails | [1U - POWER.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;POWER.c2d) | [1U - POWER.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;POWER.nc) |
-| DMOD | Delayed modulation module | [1U - DMOD.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;DMOD.c2d) | [1U - DMOD.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;DMOD.nc) |
-| S&H | Sample and hold module | [1U - S&H.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;S&H.c2d) | [1U - S&H.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;S&H.nc) |
-| PAN | Stereo auto-panner module | [1U - PAN.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;PAN.c2d) | [1U - PAN.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;PAN.nc) |
-| NOISE | Noise generator module | [1U - NOISE.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;NOISE.c2d) | [1U - NOISE.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;NOISE.nc) |
-| QUANT | Voltage quantizer module | [1U - QUANT.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;QUANT.c2d) | [1U - QUANT.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;QUANT.nc) |
-| REVERB | Voltage controlled reverb module | [1U - REVERB.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;REVERB.c2d) | [1U - REVERB.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;REVERB.nc) |
-| PHASE | 8-stage phase shifter module | [1U - PHASE.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;PHASE.c2d) | [1U - PHASE.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/1U&#32;-&#32;PHASE.nc) |
-| CVGATE | CV and Gate expander module | [2U - CVGATE.c2d](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/2U&#32;-&#32;CVGATE.c2d) | [2U - CVGATE.nc](https://raw.githubusercontent.com/LukeLabs/analog-synthesizer-panels/master/MFOS/Panels/2U&#32;-&#32;CVGATE.nc) |
+| VCO | Voltage Controller Oscillator module | [2U - VCO.c2d](MFOS/Panels/2U&#32;-&#32;VCO.c2d) | [2U - VCO.nc](MFOS/Panels/2U&#32;-&#32;VCO.nc) |
+| VCF12 | 12dB Voltage Controlled Filter module | [2U - VCF12.c2d](MFOS/Panels/2U&#32;-&#32;VCF12.c2d) | [2U - VCF12.nc](MFOS/Panels/2U&#32;-&#32;VCF12.nc) |
+| VCF24 | 24dB Voltage Controlled Filter module | [2U - VCF24.c2d](MFOS/Panels/2U&#32;-&#32;VCF24.c2d) | [2U - VCF24.nc](MFOS/Panels/2U&#32;-&#32;VCF24.nc) |
+| ADSR | Attack/Delay/Sustain/Release envelope generator module | [1U - ADSR.c2d](MFOS/Panels/1U&#32;-&#32;ADSR.c2d) | [1U - ADSR.nc](MFOS/Panels/1U&#32;-&#32;ADSR.nc) |
+| VCA | Voltage Controlled Amplifier module | [1U - VCA.c2d](MFOS/Panels/1U&#32;-&#32;VCA.c2d) | [1U - VCA.nc](MFOS/Panels/1U&#32;-&#32;VCA.nc) |
+| LFO | Low Frequency Oscillator module | [1U - LFO.c2d](MFOS/Panels/1U&#32;-&#32;LFO.c2d) | [1U - LFO.nc](MFOS/Panels/1U&#32;-&#32;LFO.nc) |
+| MULTI | 4x4x4x4/8x8 passive multiplier module | [1U - MULTI.c2d](MFOS/Panels/1U&#32;-&#32;MULTI.c2d) | [1U - MULTI.nc](MFOS/Panels/1U&#32;-&#32;MULTI.nc) |
+| LEVEL | Three channel passive level attenuator module | [1U - LEVEL.c2d](MFOS/Panels/1U&#32;-&#32;LEVEL.c2d) | [1U - LEVEL.nc](MFOS/Panels/1U&#32;-&#32;LEVEL.nc) |
+| POWER | Simple power panel for dual supply rails | [1U - POWER.c2d](MFOS/Panels/1U&#32;-&#32;POWER.c2d) | [1U - POWER.nc](MFOS/Panels/1U&#32;-&#32;POWER.nc) |
+| DMOD | Delayed modulation module | [1U - DMOD.c2d](MFOS/Panels/1U&#32;-&#32;DMOD.c2d) | [1U - DMOD.nc](MFOS/Panels/1U&#32;-&#32;DMOD.nc) |
+| S&H | Sample and hold module | [1U - S&H.c2d](MFOS/Panels/1U&#32;-&#32;S&H.c2d) | [1U - S&H.nc](MFOS/Panels/1U&#32;-&#32;S&H.nc) |
+| PAN | Stereo auto-panner module | [1U - PAN.c2d](MFOS/Panels/1U&#32;-&#32;PAN.c2d) | [1U - PAN.nc](MFOS/Panels/1U&#32;-&#32;PAN.nc) |
+| NOISE | Noise generator module | [1U - NOISE.c2d](MFOS/Panels/1U&#32;-&#32;NOISE.c2d) | [1U - NOISE.nc](MFOS/Panels/1U&#32;-&#32;NOISE.nc) |
+| QUANT | Voltage quantizer module | [1U - QUANT.c2d](MFOS/Panels/1U&#32;-&#32;QUANT.c2d) | [1U - QUANT.nc](MFOS/Panels/1U&#32;-&#32;QUANT.nc) |
+| REVERB | Voltage controlled reverb module | [1U - REVERB.c2d](MFOS/Panels/1U&#32;-&#32;REVERB.c2d) | [1U - REVERB.nc](MFOS/Panels/1U&#32;-&#32;REVERB.nc) |
+| PHASE | 8-stage phase shifter module | [1U - PHASE.c2d](MFOS/Panels/1U&#32;-&#32;PHASE.c2d) | [1U - PHASE.nc](MFOS/Panels/1U&#32;-&#32;PHASE.nc) |
+| CVGATE | CV and Gate expander module | [2U - CVGATE.c2d](MFOS/Panels/2U&#32;-&#32;CVGATE.c2d) | [2U - CVGATE.nc](MFOS/Panels/2U&#32;-&#32;CVGATE.nc) |
+| WAVEFREAK | Wave Freaker module | [2U - WAVEFREAK.c2d](MFOS/Panels/2U&#32;-&#32;WAVEFREAK.c2d) | [2U - WAVEFREAK.nc](MFOS/Panels/2U&#32;-&#32;WAVEFREAK.nc) |
 
 ## How to use these files
 
