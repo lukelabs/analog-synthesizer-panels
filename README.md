@@ -32,6 +32,7 @@ The [Carbide Create](https://carbide3d.com/carbidecreate/) files and G-code are 
 | PHASE | 8-stage phase shifter module | [1U - PHASE.c2d](MFOS/Panels/1U&#32;-&#32;PHASE.c2d) | [1U - PHASE.nc](MFOS/Panels/1U&#32;-&#32;PHASE.nc) |
 | CVGATE | CV and Gate expander module | [2U - CVGATE.c2d](MFOS/Panels/2U&#32;-&#32;CVGATE.c2d) | [2U - CVGATE.nc](MFOS/Panels/2U&#32;-&#32;CVGATE.nc) |
 | WAVEFREAK | Wave Freaker module | [2U - WAVEFREAK.c2d](MFOS/Panels/2U&#32;-&#32;WAVEFREAK.c2d) | [2U - WAVEFREAK.nc](MFOS/Panels/2U&#32;-&#32;WAVEFREAK.nc) |
+| ECHO | Echo module | [2U - ECHO.c2d](MFOS/Panels/2U&#32;-&#32;ECHO.c2d) | [2U - ECHO.nc](MFOS/Panels/2U&#32;-&#32;ECHO.nc) |
 
 ## How to use these files
 
