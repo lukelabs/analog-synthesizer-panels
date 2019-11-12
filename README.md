@@ -2,7 +2,7 @@
 
 This repository contains the source files for my custom built, [Music From Outer Space](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1854&VPH=866) modular analog synthesizer.
 
-![Music From Outer Space modular analog synthesizer panels in Sketch format](MFOS/MFOS-Panels-rev2.png)
+![Music From Outer Space modular analog synthesizer panels in Sketch format](MFOS/MFOS-Panels-rev3.png)
 
 ## Artwork
 
@@ -33,6 +33,8 @@ The [Carbide Create](https://carbide3d.com/carbidecreate/) files and G-code are 
 | CVGATE | CV and Gate expander module | [2U - CVGATE.c2d](MFOS/Panels/2U&#32;-&#32;CVGATE.c2d) | [2U - CVGATE.nc](MFOS/Panels/2U&#32;-&#32;CVGATE.nc) |
 | WAVEFREAK | Wave Freaker module | [2U - WAVEFREAK.c2d](MFOS/Panels/2U&#32;-&#32;WAVEFREAK.c2d) | [2U - WAVEFREAK.nc](MFOS/Panels/2U&#32;-&#32;WAVEFREAK.nc) |
 | ECHO | Echo module | [2U - ECHO.c2d](MFOS/Panels/2U&#32;-&#32;ECHO.c2d) | [2U - ECHO.nc](MFOS/Panels/2U&#32;-&#32;ECHO.nc) |
+| RINGMOD | Ring modulator module | [2U - RINGMOD.c2d](MFOS/Panels/2U&#32;-&#32;RINGMOD.c2d) | [2U - RINGMOD.nc](MFOS/Panels/2U&#32;-&#32;RINGMOD.nc) |
+| ENVELOPE | Seven segment envelope generator module | [2U - ENVELOPE.c2d](MFOS/Panels/2U&#32;-&#32;ENVELOPE.c2d) | [2U - ENVELOPE.nc](MFOS/Panels/2U&#32;-&#32;ENVELOPE.nc) |
 
 ## How to use these files
 
@@ -53,7 +55,7 @@ The [Carbide Create](https://carbide3d.com/carbidecreate/) files and G-code are 
 
 ## Warnings
 
-- These panels were originally printed on 3.18 mm thick aluminium at a size of 90 mm x 223 mm for 2U wide and 45 mm x 223 mm for 1U wide.  You should double check these panels will fit into your rack before printing or cutting.
+- These panels were originally printed on 3.18 mm thick aluminium at a size of 45 mm x 223 mm for 1U wide and 90 mm x 223 mm for 2U wide.  You should double-check these panels will fit into your rack before printing or cutting.
 - Each Carbide Create toolpath has a _different_ depth of cut.  This is to take into account issues with the Shapeoko's belt-driven Z axis.
 
 ## More information
@@ -61,6 +63,6 @@ The [Carbide Create](https://carbide3d.com/carbidecreate/) files and G-code are 
 - [My blog](https://lukelabs.com) contains more details on [how you can create your own synthesizer front panels with Sketch](https://lukelabs.com/2019/03/23/how-to-design-a-synthesizer-front-panel-using-sketch/).
 - You can see my current build progress over on [the LukeLabs.com Instagram page](https://www.instagram.com/lukelabsdotcom/).
 
-## Questions?
+## Questions
 
 If you have any questions, or would like to know more about my process, please send me an email at luke(AT)lukelabs(DOT)com.
