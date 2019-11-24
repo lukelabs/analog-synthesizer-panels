@@ -2,7 +2,7 @@
 
 This repository contains the source files for my custom built, [Music From Outer Space](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1854&VPH=866) modular analog synthesizer.
 
-![Music From Outer Space modular analog synthesizer panels in Sketch format](MFOS/MFOS-Panels-rev3.png)
+![Music From Outer Space modular analog synthesizer panels in Sketch format](MFOS/MFOS-Panels-rev4.png)
 
 ## Artwork
 
@@ -35,6 +35,8 @@ The [Carbide Create](https://carbide3d.com/carbidecreate/) files and G-code are 
 | ECHO | Echo module | [2U - ECHO.c2d](MFOS/Panels/2U&#32;-&#32;ECHO.c2d) | [2U - ECHO.nc](MFOS/Panels/2U&#32;-&#32;ECHO.nc) |
 | RINGMOD | Ring modulator module | [2U - RINGMOD.c2d](MFOS/Panels/2U&#32;-&#32;RINGMOD.c2d) | [2U - RINGMOD.nc](MFOS/Panels/2U&#32;-&#32;RINGMOD.nc) |
 | ENVELOPE | Seven segment envelope generator module | [2U - ENVELOPE.c2d](MFOS/Panels/2U&#32;-&#32;ENVELOPE.c2d) | [2U - ENVELOPE.nc](MFOS/Panels/2U&#32;-&#32;ENVELOPE.nc) |
+| MIXER | Four + two channel mixer module | TBA | TBA |
+| SEQUENCER | 16 channel quantized vari-clock sequencer module | TBA | TBA |
 
 ## How to use these files
 
