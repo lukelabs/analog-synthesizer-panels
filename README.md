@@ -35,7 +35,7 @@ The [Carbide Create](https://carbide3d.com/carbidecreate/) files and G-code are 
 | ECHO | Echo module | [2U - ECHO.c2d](MFOS/Panels/2U&#32;-&#32;ECHO.c2d) | [2U - ECHO.nc](MFOS/Panels/2U&#32;-&#32;ECHO.nc) |
 | RINGMOD | Ring modulator module | [2U - RINGMOD.c2d](MFOS/Panels/2U&#32;-&#32;RINGMOD.c2d) | [2U - RINGMOD.nc](MFOS/Panels/2U&#32;-&#32;RINGMOD.nc) |
 | ENVELOPE | Seven segment envelope generator module | [2U - ENVELOPE.c2d](MFOS/Panels/2U&#32;-&#32;ENVELOPE.c2d) | [2U - ENVELOPE.nc](MFOS/Panels/2U&#32;-&#32;ENVELOPE.nc) |
-| MIXER | Four + two channel mixer module | TBA | TBA |
+| MIXER | Four + two channel mixer module | [4U - MIXER.c2d](MFOS/Panels/4U&#32;-&#32;MIXER.c2d) | [4U - MIXER.nc](MFOS/Panels/4U&#32;-&#32;MIXER.nc) |
 | SEQUENCER | 16 channel quantized vari-clock sequencer module | TBA | TBA |
 
 ## How to use these files
