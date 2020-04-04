@@ -2,7 +2,7 @@
 
 This repository contains the source files for my custom built, [Music From Outer Space](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1854&VPH=866) modular analog synthesizer.
 
-![Music From Outer Space modular analog synthesizer panels in Sketch format](MFOS/MFOS-Panels-rev4.png)
+![Music From Outer Space modular analog synthesizer panels in Sketch format](MFOS/MFOS-Panels-rev5.png)
 
 ## Artwork
 
@@ -14,6 +14,7 @@ The [Carbide Create](https://carbide3d.com/carbidecreate/) files and G-code are 
 
 | Panel name | Description | Carbide Create | G-code |
 | --- | --- | --- | --- |
+| BLANK | Blank 1U module | [1U - BLANK.c2d](MFOS/Panels/1U&#32;-&#32;BLANK.c2d) | [1U - BLANK.nc](MFOS/Panels/1U&#32;-&#32;BLANK.nc) |
 | VCO | Voltage Controller Oscillator module | [2U - VCO.c2d](MFOS/Panels/2U&#32;-&#32;VCO.c2d) | [2U - VCO.nc](MFOS/Panels/2U&#32;-&#32;VCO.nc) |
 | VCF12 | 12dB Voltage Controlled Filter module | [2U - VCF12.c2d](MFOS/Panels/2U&#32;-&#32;VCF12.c2d) | [2U - VCF12.nc](MFOS/Panels/2U&#32;-&#32;VCF12.nc) |
 | VCF24 | 24dB Voltage Controlled Filter module | [2U - VCF24.c2d](MFOS/Panels/2U&#32;-&#32;VCF24.c2d) | [2U - VCF24.nc](MFOS/Panels/2U&#32;-&#32;VCF24.nc) |
