@@ -2,7 +2,7 @@
 
 This repository contains the source files for my custom built, [Music From Outer Space](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1854&VPH=866) modular analog synthesizer.
 
-![Music From Outer Space modular analog synthesizer panels in Sketch format](MFOS/MFOS-Panels-rev5.png)
+![Music From Outer Space modular analog synthesizer panels in Sketch format](MFOS/MFOS-Panels-rev6.png)
 
 ## Artwork
 
