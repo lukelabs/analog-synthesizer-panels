@@ -2,7 +2,7 @@
 
 This repository contains the source files for my custom built, [Music From Outer Space](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1854&VPH=866) modular analog synthesizer.
 
-![Music From Outer Space modular analog synthesizer panels in Sketch format](MFOS/MFOS-Panels-rev7.png)
+![Music From Outer Space modular analog synthesizer panels in Sketch format](MFOS/MFOS-Panels-rev8.png)
 
 ## Artwork
 
@@ -37,7 +37,8 @@ The [Carbide Create](https://carbide3d.com/carbidecreate/) files and G-code are 
 | RINGMOD | Ring modulator module | [2U - RINGMOD.c2d](MFOS/Panels/2U&#32;-&#32;RINGMOD.c2d) | [2U - RINGMOD.nc](MFOS/Panels/2U&#32;-&#32;RINGMOD.nc) |
 | ENVELOPE | Seven segment envelope generator module | [2U - ENVELOPE.c2d](MFOS/Panels/2U&#32;-&#32;ENVELOPE.c2d) | [2U - ENVELOPE.nc](MFOS/Panels/2U&#32;-&#32;ENVELOPE.nc) |
 | MIXER | Four + two channel mixer module | [4U - MIXER.c2d](MFOS/Panels/4U&#32;-&#32;MIXER.c2d) | [4U - MIXER.nc](MFOS/Panels/4U&#32;-&#32;MIXER.nc) |
-| SEQUENCER | 16 channel quantized vari-clock sequencer module | TBA | TBA |
+| SEQUENCER-LEFT | 16 channel quantized vari-clock sequencer module (left) | [6U - SEQUENCER-LEFT.c2d](MFOS/Panels/6U&#32;-&#32;SEQUENCER-LEFT.c2d) | [6U - SEQUENCER-LEFT.nc](MFOS/Panels/6U&#32;-&#32;SEQUENCER-LEFT.nc) |
+| SEQUENCER-RIGHT | 16 channel quantized vari-clock sequencer module (right) | [6U - SEQUENCER-RIGHT.c2d](MFOS/Panels/6U&#32;-&#32;SEQUENCER-RIGHT.c2d) | [6U - SEQUENCER-RIGHT.nc](MFOS/Panels/6U&#32;-&#32;SEQUENCER-RIGHT.nc) |
 
 ## How to use these files
 
